@@ -3,3 +3,5 @@
 - version 2
 
 - feature is finalized - version 3
+
+-- this is added for github merge conflict solving
