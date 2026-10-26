@@ -4,4 +4,5 @@
 
 - feature is finalized - version 3
 
--- this is added for github merge conflict solving
+hey this is an feature edit in feature 2
+
